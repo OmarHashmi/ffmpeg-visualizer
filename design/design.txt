@@ -1,0 +1,34 @@
+main
+	view
+		zoom
+		time
+		side
+	crop
+		crop top
+		crop bottom
+		crop left
+		crop right
+	trim
+		start time
+		end time
+	scale
+		dimensions
+		fps
+		speed
+	audio
+		volume
+	reencode
+		video codec
+			same
+			libopenh264
+			libx265
+		audio codec
+			same
+			aac
+			flac
+			opus
+		file type
+			same
+			mp4
+			webm
+		
